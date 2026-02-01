@@ -1,11 +1,5 @@
 # EM-Fields-Grow-Unidirectional-Polylithic-Cells
 
-Here is the `README.md` to initialize your repository. This structure establishes the scientific premise, the hardware goals, and the immediate roadmap for the OpenSCAD ("scad") design phase.
-
-* * * * *
-
-Markdown
-
 ```
 # EM-Aligned Polylithic Solar Reactor
 
